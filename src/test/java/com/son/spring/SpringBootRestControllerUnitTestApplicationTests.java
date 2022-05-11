@@ -1,4 +1,4 @@
-package com.bezkoder.spring.test;
+package com.son.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
